@@ -1,6 +1,6 @@
 # Buscador-de-Estatus
-Becas Benito Juarez Buscador de Estatus
-**Buscador de Estatus**
+**Becas Benito Juarez Buscador de Estatus**
+
 
 An easy-to-use online platform that helps users in Mexico track the status of scholarships and social programs quickly and reliably. Everything you need in one place, without complicated steps.
 
